@@ -25,6 +25,7 @@ Usuários devem ser capazes de:
 ## Links
 
 - URL do projeto: (https://gadiel-s.github.io/interactive-rating-component/)
+- LinkedIn: (https://www.linkedin.com/in/gadielsouzafrontend/)
 - Github: (https://github.com/Gadiel-S)
 - Frontend Mentor - [@Gadiel-S](https://www.frontendmentor.io/profile/Gadiel-S)
 - Portfolio - [Gadiel Souza de Barros](https://gadiel-s.github.io/meu-portfolio/)
